@@ -2,9 +2,5 @@ C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\bin\Debug\TopicForumDB.
 C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\bin\Debug\TopicForumDatabase.dll
 C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\bin\Debug\TopicForumDatabase.pdb
 C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\TopicForumDB.sqlprojResolveAssemblyReference.cache
-C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\Model.xml
-C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\refactor.xml
-C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\postdeploy.sql
-C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\predeploy.sql
 C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\TopicForumDatabase.dll
 C:\Base\projects\Nachhilfe\TopicForum\TopicForumDatabase\obj\Debug\TopicForumDatabase.pdb
